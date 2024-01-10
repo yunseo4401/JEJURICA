@@ -43,7 +43,7 @@
 ```
 서버 생성에 필요한 모델 경로 파일은 다음 드라이브 링크에서 다운받으실 수 있습니다. (용량이 굉장히 큽니다. )
 
-경로 : https://drive.google.com/file/d/10TDyacV2i5En2NMzLpsIneTY7TPetF-c/view
+경로 : https://drive.google.com/file/d/18mZy7a9Xag_NKRDv2S83KZnftB3qzEst/view?usp=sharing
 
 업로드 할 제주도 방언 음성은 반드시 ".wav" 형식이어야 합니다. 
 데모 아래에 한국어 표준어 번역결과도 텍스트로 표시됩니다. 
