@@ -1,0 +1,6 @@
+flask
+librosa
+lightning
+transformers
+sentencepiece
+speechbrain
