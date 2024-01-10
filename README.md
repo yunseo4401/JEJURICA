@@ -46,3 +46,4 @@
 경로 : https://drive.google.com/file/d/10TDyacV2i5En2NMzLpsIneTY7TPetF-c/view
 
 업로드 할 제주도 방언 음성은 반드시 ".wav" 형식이어야 합니다. 
+데모 아래에 한국어 표준어 번역결과도 텍스트로 표시됩니다. 
